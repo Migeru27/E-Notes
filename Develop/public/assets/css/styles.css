@@ -76,3 +76,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.fas fa-plus text-light new-note{
+  margin-left: 10px;
+}
