@@ -18,12 +18,14 @@ I wanted to create a simple way for people to access notes that can used to crea
 
 ## Screenshots 
 
-![Main Page]()
+![Main Page](images/Screenshot%202023-04-16%20at%2011-12-41%20Note%20Taker.png)
 
-![Notes Page]()
+![Notes Page](images/Screenshot%202023-04-16%20at%2011-15-43%20Note%20Taker.png)
 
-![High Score in Main Page]()
+![Writing a note](images/Screenshot%202023-04-16%20at%2011-18-35%20Note%20Taker.png)
+
+![Storing note](images/Screenshot%202023-04-16%20at%2011-18-42%20Note%20Taker.png)
 
 ## Links 
 
-[Deployed Page]()
+[Deployed Page](https://migeru27.github.io/E-Notes/)
