@@ -28,4 +28,4 @@ I wanted to create a simple way for people to access notes that can used to crea
 
 ## Links 
 
-[Deployed Page](https://migeru27.github.io/E-Notes/)
+[Deployed Page](https://enotes.herokuapp.com/)
